@@ -1,2 +1,10 @@
 # ATM-Simulation
-The ATM application will communicate with the database on each transaction and verify the same. In the case of an amount withdrawal, a second message will be sent after the transaction is completed indicating successful transaction completion. The ATM will provide the customer details of each successful transaction, showing the auto generated transaction id, date, time, amount, type of transaction and account number thus providing easy access to the data for the customer. Users can also view their account balance.
+
+This project features a desktop based ATM application built using Java Swing and Apache Derby. 
+
+## Features:
+
+* Account Balance
+* Money Withdrawal
+* Account Ministatement
+* Account Pin Change
